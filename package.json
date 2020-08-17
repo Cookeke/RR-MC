@@ -1,0 +1,19 @@
+{
+  "name": "rr-mc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cookeke/RR-MC.git"
+  },
+  "author": "kongkehan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cookeke/RR-MC/issues"
+  },
+  "homepage": "https://github.com/Cookeke/RR-MC#readme"
+}
